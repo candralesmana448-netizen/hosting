@@ -1,0 +1,34 @@
+{
+    "fields": {
+        "psTitle": "Prestasi Siswa-Siswi Ar-Rahmah",
+        "psSubtitle": "Apresiasi atas semangat, dedikasi, dan pencapaian luar biasa siswa-siswi Yayasan Ar-Rahmah dalam bidang akademik dan keahlian.",
+        "ach1Badge": "Keagamaan",
+        "ach1Title": "Juara Tahfidz Al-Qur'an",
+        "ach1Desc": "Capaian membanggakan para santri dalam Musabaqah Hifdzil Qur'an (MHQ) tingkat kabupaten dan provinsi.",
+        "ach1Label1": "Pencapaian Utama:",
+        "ach1List1": "<li><br></li>",
+        "ach1Label2": "Apresiasi Yayasan:",
+        "ach1List2": "<li><br></li>",
+        "ach2Badge": "Akademik",
+        "ach2Title": "Olimpiade Sains &amp; Matematika",
+        "ach2Desc": "Keberhasilan siswa SMP Ar-Rahmah meraih medali dalam ajang kompetisi sains dan matematika antar-sekolah.",
+        "ach2Label1": "Pencapaian Utama:",
+        "ach2List1": "<li><br></li>",
+        "ach2Label2": "Program Pendukung:",
+        "ach2List2": "<li><br></li>",
+        "ach3Badge": "Teknologi &amp; Vokasi",
+        "ach3Title": "Lomba Teknologi &amp; IT",
+        "ach3Desc": "Penghargaan siswa SMK Ar-Rahmah dalam Lomba Kompetensi Siswa (LKS) bidang Desain Web &amp; Jaringan.",
+        "ach3Label1": "Pencapaian Utama:",
+        "ach3List1": "<li><br></li>",
+        "ach3Label2": "Karya Unggulan:",
+        "ach3List2": "<li><br></li>"
+    },
+    "images": {
+        "ach1Img": "uploads/prestasi/prestasi_20260916171510_2f300680.jpg",
+        "ach2Img": "uploads/prestasi/prestasi_20260916171532_1b591deb.jpg",
+        "ach3Img": "uploads/prestasi/prestasi_20260916171544_4d3d0887.jpg"
+    },
+    "extra": [],
+    "deleted": []
+}
